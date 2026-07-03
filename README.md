@@ -22,6 +22,5 @@ Welcome to my GitHub! Here you can track my progress as a **Data Scientist / ML 
 ### 📫 Connect with me
 *   **Email:** bankahookswork@gmail.com
 *   **Telegram:** @DanHooksWork
-*   **LinkedIn:** [твоя ссылка на LinkedIn]
 
 Always open to new opportunities, collaborations, and just a good chat about AI!
