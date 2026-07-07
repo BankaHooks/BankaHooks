@@ -1,7 +1,7 @@
 ## Hi! I'm Daniel 👋
 
 I'm a Russian student from Saint-Petersburg, currently pursuing my second year of a Bachelor's degree.
-I'm deeply passionate about **Data Science and Machine Learning**, with a strong interest in **LLM, NLP, and Computer Vision**. Right now, I'm focused on building a solid foundation by mastering classical algorithms and Deep Learning.
+I'm deeply passionate about **Data Science and Machine Learning**, with a strong interest in **Deep Learning, LLM, NLP**. Right now, I'm focused on building a solid foundation by mastering classical algorithms and Deep Learning.
 
 Welcome to my GitHub! Here you can track my progress as a **ML/AI Engineer**.
 
