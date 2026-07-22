@@ -1,7 +1,7 @@
 ## Hi! I'm Daniel 👋
 
 I'm a Russian student from Saint-Petersburg, currently pursuing my second year of a Bachelor's degree.
-I'm passionate about **building products** — from designing architecture to deployment.
+I'm passionate about **building products with AI** — from designing architecture to deployment.
 Welcome to my GitHub! Here you can track my progress as a **Software Engineer**.
 
 ### 🛠 My Tech Stack
