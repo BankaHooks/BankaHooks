@@ -5,15 +5,13 @@ I'm passionate about **building products with AI inside** — from designing arc
 Welcome to my GitHub! Here you can track my progress as a **Software Engineer**.
 
 ### 🛠 My Tech Stack
-**Languages:** Python, SQL, C++ (basic)
+**Languages:** Python, SQL, C++ 
 **Backend & APIs:** FastAPI, REST APIs
 **Data & Tools:** Pandas, NumPy, Git, Docker
 **Visualization:** Matplotlib, Seaborn
-**Environment:** PyCharm, VS Code, Linux
+**Environment:** PyCharm, Visual Studio, Linux
 
 ### 📌 What I'm working on
-
-- **MuseTwin** — music recommendation engine: FastAPI + Pandas + cosine similarity. Searching and deploying a real product.
 - **C++ path** — building systems, understanding memory, concurrency, and architecture.
 - **Algorithm practice** — LeetCode, data structures, system design.
 
