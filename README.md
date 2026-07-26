@@ -1,22 +1,35 @@
 ## Hi! I'm Daniel 👋
 
-I'm a Russian student from Saint-Petersburg, currently pursuing my second year of a Bachelor's degree.
-I'm passionate about **building products** — from designing architecture to deployment.
+I'm a Russian student from Saint-Petersburg, pursuing my second year of a Bachelor's degree.
+I'm passionate about **building products** — from architecture to deployment, from databases to low-level systems.
 Welcome to my GitHub! Here you can track my progress as a **Software Engineer**.
 
+---
+
 ### 🛠 My Tech Stack
-**Languages:** Python, SQL, C++ 
+
+**Languages:** Python, SQL, C++, C
 **Backend & APIs:** FastAPI, REST APIs
-**Data & Tools:** Pandas, NumPy, Git, Docker
-**Visualization:** Matplotlib, Seaborn
-**Environment:** PyCharm, Visual Studio, Linux
+**Systems & Tools:** Linux, Git, Docker, CMake (learning)
+**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+**Environment:** PyCharm, Visual Studio, Atom, Linux
 
-### 📌 What I'm working on
-- **C++ path** — building systems, understanding memory, concurrency, and architecture.
-- **Algorithm practice** — LeetCode, data structures, system design.
 
-### 📫 Connect with me
+### 🧭 Areas of Focus
+- **Systems Programming & High‑Load** — C++, memory management, concurrency, performance
+- **Backend Development** — APIs, databases, architecture, distributed systems
+- **Own Products** — building things from scratch, not just following tutorials
+- **Embedded (as a hobby)** — microcontrollers, low‑level programming, hardware tinkering
 
+
+### 📌 What I'm Working On
+- **MuseTwin** — music recommendation engine (FastAPI + cosine similarity)
+- **C++ deep dive** — learncpp.com, memory, pointers, STL, RAII
+- **Algorithm practice** — LeetCode, data structures, system design
+- **Linux & systems** — understanding how computers actually work
+
+
+### 📫 Connect with Me
 - **Email:** bankahookswork@gmail.com
 - **Telegram:** @DanHooksWork
 
