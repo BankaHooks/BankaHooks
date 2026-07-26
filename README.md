@@ -23,8 +23,7 @@ Welcome to my GitHub! Here you can track my progress as a **Software Engineer**.
 
 
 ### 📌 What I'm Working On
-- **MuseTwin** — music recommendation engine (FastAPI + cosine similarity)
-- **C++ deep dive** — learncpp.com, memory, pointers, STL, RAII
+- **C++ deep dive** 
 - **Algorithm practice** — LeetCode, data structures, system design
 - **Linux & systems** — understanding how computers actually work
 
