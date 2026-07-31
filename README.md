@@ -1,35 +1,42 @@
-## Hi! I'm Daniel 👋
+# 👋 Hi, I'm Daniil
 
-I'm a Russian student from Saint-Petersburg, pursuing my second year of a Bachelor's degree.
-I'm passionate about **building products** — from architecture to deployment, from databases to low-level systems.
-Welcome to my GitHub! Here you can track my progress as a **Software Engineer**.
+I'm a student from Saint-Petersburg, Russia. I build products — from idea to deployment.  
+Currently focused on **fullstack web development**, with a long-term interest in **systems programming**.
 
 ---
 
-### 🛠 My Tech Stack
+## What I do
 
-**Languages:** Python, SQL, C++, C
-**Backend & APIs:** FastAPI, REST APIs
-**Systems & Tools:** Linux, Git, Docker, CMake (learning)
-**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-**Environment:** PyCharm, Visual Studio, Atom, Linux
+| Layer | Technologies | Status |
+|-------|--------------|--------|
+| **Backend** | Python, FastAPI, PostgreSQL | Main stack |
+| **Frontend** | JavaScript, React, HTML/CSS | Learning |
+| **Systems** | C, C++, Linux | Exploring |
+| **Infra** | Docker, Git, Linux | Basic |
 
+---
 
-### 🧭 Areas of Focus
-- **Systems Programming & High‑Load** — C++, memory management, concurrency, performance
-- **Backend Development** — APIs, databases, architecture, distributed systems
-- **Own Products** — building things from scratch, not just following tutorials
-- **Embedded (as a hobby)** — microcontrollers, low‑level programming, hardware tinkering
+## Current project
 
+### MuseTwinDate — dating app for Telegram
 
-### 📌 What I'm Working On
-- **C++ deep dive** 
-- **Algorithm practice** — LeetCode, data structures, system design
-- **Linux & systems** — understanding how computers actually work
+Find people by music taste.  
+Built with: FastAPI + React + PostgreSQL + Telegram Mini App.
 
+- [ ] Matching algorithm based on MuseTwin
+- [ ] Telegram Mini App UI
+- [ ] Premium subscriptions
 
-### 📫 Connect with Me
-- **Email:** bankahookswork@gmail.com
-- **Telegram:** @DanHooksWork
+---
 
-Always open to new opportunities, collaborations, and just a good chat about projects!
+I start with web development — it gives me results, experience, and income.  
+In parallel, I learn C++ and systems to build deeper, more powerful products in the future.
+
+---
+
+## Connect
+
+- Telegram: [@DanHooksWork](https://t.me/DanHooksWork)
+- Email: bankahookswork@gmail.com
+
+---
