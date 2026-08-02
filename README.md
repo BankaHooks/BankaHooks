@@ -1,42 +1,36 @@
 # 👋 Hi, I'm Daniil
 
-I'm a student from Saint-Petersburg, Russia. I build products — from idea to deployment.  
-Currently focused on **fullstack web development**, with a long-term interest in **systems programming**.
+I build products from idea to deployment.  
+Currently focused on **fullstack web development** — with a long-term eye on **systems programming**.
+
+I don't just write code. I design, build, and ship.
 
 ---
 
-## What I do
+## 🛠 What I work with
 
 | Layer | Technologies | Status |
 |-------|--------------|--------|
-| **Backend** | Python, FastAPI, PostgreSQL | Main stack |
-| **Frontend** | JavaScript, React, HTML/CSS | Learning |
-| **Systems** | C, C++, Linux | Exploring |
-| **Infra** | Docker, Git, Linux | Basic |
+| **Backend** | Python, FastAPI, Node.js |
+| **Frontend** | JavaScript, React, HTML/CSS | 
+| **Systems** | C, C++, Linux | 
+| **Infra** | Docker, PostgreSQL, Redis, Git | 
 
 ---
 
-## Current project
+## Current Project
 
 ### MuseTwinDate — dating app for Telegram
 
 Find people by music taste.  
-Built with: FastAPI + React + PostgreSQL + Telegram Mini App.
+Built with: **FastAPI + React + PostgreSQL + Telegram Mini App**.
 
 - [ ] Matching algorithm based on MuseTwin
 - [ ] Telegram Mini App UI
-- [ ] Premium subscriptions
-
----
-
-I start with web development — it gives me results, experience, and income.  
-In parallel, I learn C++ and systems to build deeper, more powerful products in the future.
-
+- [ ] Premium subscriptions (Telegram Stars)
 ---
 
 ## Connect
 
 - Telegram: [@DanHooksWork](https://t.me/DanHooksWork)
 - Email: bankahookswork@gmail.com
-
----
