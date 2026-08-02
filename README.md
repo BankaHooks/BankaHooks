@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Daniil
 
+I`m software engineer.
 I build products from idea to deployment.  
 Currently focused on **fullstack web development** — with a long-term eye on **systems programming**.
 
