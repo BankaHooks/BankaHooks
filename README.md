@@ -10,8 +10,8 @@ I don't just write code. I design, build, and ship.
 
 ## 🛠 What I work with
 
-| Layer | Technologies | Status |
-|-------|--------------|--------|
+| Layer | Technologies |
+|-------|--------------|
 | **Backend** | Python, FastAPI, Node.js |
 | **Frontend** | JavaScript, React, HTML/CSS | 
 | **Systems** | C, C++, Linux | 
