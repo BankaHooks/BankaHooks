@@ -25,9 +25,9 @@ I don't just write code. I design, build, and ship.
 Find people by music taste.  
 Built with: **FastAPI + React + PostgreSQL + Telegram Mini App**.
 
-- [ ] Matching algorithm based on MuseTwin
-- [ ] Telegram Mini App UI
-- [ ] Premium subscriptions (Telegram Stars)
+- [V] Matching algorithm based on MuseTwin
+- [V] Telegram Mini App UI
+- [V] Premium subscriptions (Telegram Stars)
 ---
 
 ## Connect
