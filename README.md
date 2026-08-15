@@ -12,9 +12,8 @@ I don't just write code. I design, build, and ship.
 
 | Layer | Technologies |
 |-------|--------------|
-| **Backend** | Python, FastAPI, Node.js |
-| **Frontend** | JavaScript, React, HTML/CSS | 
-| **Systems** | C, C++, Linux | 
+| **Backend** | Python, FastAPI|
+| **Systems** | C, C++, Linux, Rust (In Future)| 
 | **Infra** | Docker, PostgreSQL, Redis, Git | 
 
 ---
