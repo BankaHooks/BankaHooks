@@ -1,4 +1,4 @@
-#Hi! I'm Daniil. I'm interested in gamedev and low-level programming.
+# Hi! I'm Daniil. | I'm interested in gamedev and low-level programming.
 
 **C++ developer** with a focus on **game engines, games, embedded, and systems.**
 
