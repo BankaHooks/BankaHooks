@@ -2,8 +2,7 @@
 
 **C++ developer** with a focus on **game engines, games, embedded, and systems.**
 
-- **Core**: C, C++, Linux, Git, CMake, OpenGL
-- **Game Dev**: Unity (C#)
+- **Stack**: C, C++, Linux, Git
 
 Currently: Deep diving into C/C++ and building systems foundation.
 
