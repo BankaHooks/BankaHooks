@@ -1,6 +1,6 @@
 # Hi! I'm Daniil. | I'm interested in gamedev and low-level programming.
 
-**C++ developer** with a focus on **game engines, games, embedded, and systems.**
+**C++ developer** with a focus on **game engines, games , graphics programming and systems.**
 
 - **Stack**: C, C++, Linux, Git
 
